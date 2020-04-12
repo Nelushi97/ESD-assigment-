@@ -6,6 +6,8 @@ kheer
 pasta
 chicken try
 
+beans
+pizza
 
 
 thank you :)
